@@ -1,14 +1,573 @@
 {
     "name": "ddf--cait--historical_emissions",
-    "author": "Gapminder",
-    "description": "CAIT Historic allows for easy access, analysis and visualization of the latest available international greenhouse gas emissions data. It includes information for 186 countries, 50 U.S. states, 6 gases, multiple economic sectors, and 160 years - carbon dioxide emissions for 1850-2013 and multi-sector greenhouse gas emission for 1990-2013.",
     "language": {
         "name": "English",
         "id": "en"
     },
-    "translations": [],
+    "author": "Gapminder",
+    "description": "CAIT Historic allows for easy access, analysis and visualization of the latest available international greenhouse gas emissions data. It includes information for 186 countries, 50 U.S. states, 6 gases, multiple economic sectors, and 160 years - carbon dioxide emissions for 1850-2013 and multi-sector greenhouse gas emission for 1990-2013.",
     "license": "MIT",
     "title": "CAIT - Historical Emissions Data (Countries, U.S. States, UNFCCC)",
+    "translations": [],
     "version": "0.0.1",
-    "resources": []
+    "resources": [
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
+        {
+            "path": "ddf--datapoints--agriculture_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--agriculture_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agriculture_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--bunker_fuels_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--bunker_fuels_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "bunker_fuels_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--electricity_heat_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--electricity_heat_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "electricity_heat_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--energy_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--energy_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "energy_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--energy_use_thous_tonnes_oil_eq_ktoe--by--country--year.csv",
+            "name": "ddf--datapoints--energy_use_thous_tonnes_oil_eq_ktoe--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "energy_use_thous_tonnes_oil_eq_ktoe"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--fugitive_emissions_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--fugitive_emissions_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fugitive_emissions_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--gdp_ppp_million_intl_2011--by--country--year.csv",
+            "name": "ddf--datapoints--gdp_ppp_million_intl_2011--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gdp_ppp_million_intl_2011"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--gdp_usd_million_us_2010--by--country--year.csv",
+            "name": "ddf--datapoints--gdp_usd_million_us_2010--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "gdp_usd_million_us_2010"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--industrial_processes_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--industrial_processes_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "industrial_processes_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--land_use_change_and_forestry_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--land_use_change_and_forestry_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "land_use_change_and_forestry_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--manufacturing_construction_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--manufacturing_construction_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "manufacturing_construction_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--other_fuel_combustion_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--other_fuel_combustion_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "other_fuel_combustion_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--population_people--by--country--year.csv",
+            "name": "ddf--datapoints--population_people--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "population_people"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_ch4_including_land_use_change_and_forestry_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--total_ch4_including_land_use_change_and_forestry_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_ch4_including_land_use_change_and_forestry_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_ch4_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--total_ch4_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_ch4_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_co2_emissions_excluding_land_use_change_and_forestry_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--total_co2_emissions_excluding_land_use_change_and_forestry_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_co2_emissions_excluding_land_use_change_and_forestry_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_co2_excluding_land_use_change_and_forestry_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--total_co2_excluding_land_use_change_and_forestry_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_co2_excluding_land_use_change_and_forestry_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_co2_including_land_use_change_and_forestry_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--total_co2_including_land_use_change_and_forestry_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_co2_including_land_use_change_and_forestry_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_f_gas_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--total_f_gas_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_f_gas_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_ghg_emissions_excluding_land_use_change_and_forestry_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--total_ghg_emissions_excluding_land_use_change_and_forestry_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_ghg_emissions_excluding_land_use_change_and_forestry_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_ghg_emissions_including_land_use_change_and_forestry_mtco_e--by--country--year.csv",
+            "name": "ddf--datapoints--total_ghg_emissions_including_land_use_change_and_forestry_mtco_e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_ghg_emissions_including_land_use_change_and_forestry_mtco_e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_n2o_including_land_use_change_and_forestry_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--total_n2o_including_land_use_change_and_forestry_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_n2o_including_land_use_change_and_forestry_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--total_n2o_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--total_n2o_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "total_n2o_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--transportation_mtco2--by--country--year.csv",
+            "name": "ddf--datapoints--transportation_mtco2--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "transportation_mtco2"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--waste_mtco2e--by--country--year.csv",
+            "name": "ddf--datapoints--waste_mtco2e--by--country--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "waste_mtco2e"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--entities--country.csv",
+            "name": "ddf--entities--country",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "country"
+                    }
+                ],
+                "primaryKey": "country"
+            }
+        }
+    ]
 }
