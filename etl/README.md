@@ -1,3 +1,7 @@
 # How to use the etl script
 
-specify how to use the etl scripts here
+to build the ddf dataset form source, run:
+
+```
+$ cd etl/script/; python etl.py
+```
