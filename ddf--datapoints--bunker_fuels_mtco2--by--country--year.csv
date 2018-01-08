@@ -23,6 +23,7 @@ albania,2010,0.05
 albania,2011,0.06
 albania,2012,0.06
 albania,2013,0.12
+albania,2014,0.08
 algeria,1990,2.47
 algeria,1991,2.17
 algeria,1992,2.15
@@ -47,6 +48,7 @@ algeria,2010,2.46
 algeria,2011,2.26
 algeria,2012,2.44
 algeria,2013,2.55
+algeria,2014,2.15
 angola,1990,1.06
 angola,1991,0.91
 angola,1992,0.83
@@ -71,6 +73,7 @@ angola,2010,1.2
 angola,2011,1.16
 angola,2012,1.72
 angola,2013,1.38
+angola,2014,1.87
 argentina,1990,2.24
 argentina,1991,1.52
 argentina,1992,1.54
@@ -95,6 +98,7 @@ argentina,2010,5.67
 argentina,2011,6.51
 argentina,2012,7.62
 argentina,2013,8.36
+argentina,2014,7.64
 armenia,1990,0.6
 armenia,1991,0.67
 armenia,1992,0.46
@@ -119,6 +123,7 @@ armenia,2010,0.13
 armenia,2011,0.14
 armenia,2012,0.14
 armenia,2013,0.14
+armenia,2014,0.13
 australia,1990,6.5
 australia,1991,6.47
 australia,1992,6.85
@@ -143,6 +148,7 @@ australia,2010,12.37
 australia,2011,11.88
 australia,2012,12.86
 australia,2013,12.88
+australia,2014,14.05
 austria,1990,0.91
 austria,1991,1.01
 austria,1992,1.09
@@ -167,6 +173,7 @@ austria,2010,2.07
 austria,2011,2.18
 austria,2012,2.09
 austria,2013,2
+austria,2014,1.99
 azerbaijan,1990,1.05
 azerbaijan,1991,0.84
 azerbaijan,1992,0.51
@@ -191,6 +198,7 @@ azerbaijan,2010,1.44
 azerbaijan,2011,1.56
 azerbaijan,2012,1.41
 azerbaijan,2013,1.42
+azerbaijan,2014,1.3
 bahrain,1990,1.69
 bahrain,1991,1.32
 bahrain,1992,1.23
@@ -215,6 +223,7 @@ bahrain,2010,2.22
 bahrain,2011,2.09
 bahrain,2012,2.01
 bahrain,2013,1.52
+bahrain,2014,1.49
 bangladesh,1990,0.33
 bangladesh,1991,0.32
 bangladesh,1992,0.29
@@ -239,6 +248,7 @@ bangladesh,2010,1.17
 bangladesh,2011,1.33
 bangladesh,2012,1.27
 bangladesh,2013,1.3
+bangladesh,2014,1.34
 belarus,1990,0
 belarus,1991,0
 belarus,1992,0
@@ -263,6 +273,7 @@ belarus,2010,0
 belarus,2011,0
 belarus,2012,0
 belarus,2013,0.31
+belarus,2014,0.34
 belgium,1990,15.88
 belgium,1991,16.1
 belgium,1992,16.03
@@ -287,6 +298,7 @@ belgium,2010,28.66
 belgium,2011,26.21
 belgium,2012,23.56
 belgium,2013,23.68
+belgium,2014,21.32
 benin,1990,0.05
 benin,1991,0.05
 benin,1992,0.04
@@ -311,6 +323,7 @@ benin,2010,0.48
 benin,2011,0.49
 benin,2012,0.51
 benin,2013,0.55
+benin,2014,0.58
 bolivia,1990,0
 bolivia,1991,0
 bolivia,1992,0
@@ -335,6 +348,7 @@ bolivia,2010,0.14
 bolivia,2011,0.15
 bolivia,2012,0.13
 bolivia,2013,0.17
+bolivia,2014,0.19
 bosnia_herzegovina,1990,0.08
 bosnia_herzegovina,1991,0.06
 bosnia_herzegovina,1992,0.05
@@ -359,6 +373,7 @@ bosnia_herzegovina,2010,0.02
 bosnia_herzegovina,2011,0.02
 bosnia_herzegovina,2012,0.02
 bosnia_herzegovina,2013,0.01
+bosnia_herzegovina,2014,0.01
 botswana,1990,0.04
 botswana,1991,0.03
 botswana,1992,0.03
@@ -383,6 +398,7 @@ botswana,2010,0.04
 botswana,2011,0.04
 botswana,2012,0.04
 botswana,2013,0.04
+botswana,2014,0.03
 brazil,1990,3.16
 brazil,1991,3.94
 brazil,1992,4.03
@@ -407,6 +423,7 @@ brazil,2010,18.57
 brazil,2011,20.09
 brazil,2012,18.83
 brazil,2013,17.84
+brazil,2014,18.57
 brunei,1990,0.23
 brunei,1991,0.28
 brunei,1992,0.31
@@ -431,6 +448,7 @@ brunei,2010,0.61
 brunei,2011,0.64
 brunei,2012,0.47
 brunei,2013,0.51
+brunei,2014,0.45
 bulgaria,1990,0.89
 bulgaria,1991,1.51
 bulgaria,1992,1.79
@@ -455,6 +473,7 @@ bulgaria,2010,0.81
 bulgaria,2011,0.75
 bulgaria,2012,0.69
 bulgaria,2013,0.77
+bulgaria,2014,0.77
 cambodia,1995,0.03
 cambodia,1996,0.03
 cambodia,1997,0.03
@@ -474,6 +493,7 @@ cambodia,2010,0.11
 cambodia,2011,0.14
 cambodia,2012,0.17
 cambodia,2013,0.19
+cambodia,2014,0.23
 cameroon,1990,0.19
 cameroon,1991,0.22
 cameroon,1992,0.21
@@ -498,6 +518,7 @@ cameroon,2010,0.35
 cameroon,2011,0.36
 cameroon,2012,0.38
 cameroon,2013,0.4
+cameroon,2014,0.42
 canada,1990,5.63
 canada,1991,5.48
 canada,1992,5.76
@@ -522,6 +543,7 @@ canada,2010,5.61
 canada,2011,4.53
 canada,2012,4.34
 canada,2013,3.87
+canada,2014,3.38
 chile,1990,1.15
 chile,1991,1.18
 chile,1992,1.22
@@ -546,6 +568,7 @@ chile,2010,2.84
 chile,2011,2.9
 chile,2012,2.67
 chile,2013,2.55
+chile,2014,2.6
 china,1990,5.64
 china,1991,7.26
 china,1992,11.27
@@ -570,6 +593,7 @@ china,2010,43.46
 china,2011,46.96
 china,2012,47.17
 china,2013,44.66
+china,2014,44.61
 colombia,1990,1.91
 colombia,1991,1.94
 colombia,1992,2.2
@@ -594,54 +618,57 @@ colombia,2010,4.4
 colombia,2011,4.83
 colombia,2012,6.73
 colombia,2013,5.59
-congo_dem_rep,1990,0.43
-congo_dem_rep,1991,0.44
-congo_dem_rep,1992,0.43
-congo_dem_rep,1993,0.43
-congo_dem_rep,1994,0.35
-congo_dem_rep,1995,0.36
-congo_dem_rep,1996,0.36
-congo_dem_rep,1997,0.37
-congo_dem_rep,1998,0.37
-congo_dem_rep,1999,0.36
-congo_dem_rep,2000,0.24
-congo_dem_rep,2001,0.25
-congo_dem_rep,2002,0.33
-congo_dem_rep,2003,0.36
-congo_dem_rep,2004,0.4
-congo_dem_rep,2005,0.51
-congo_dem_rep,2006,0.65
-congo_dem_rep,2007,0.54
-congo_dem_rep,2008,0.05
-congo_dem_rep,2009,0.05
-congo_dem_rep,2010,0.47
-congo_dem_rep,2011,0.46
-congo_dem_rep,2012,0.44
-congo_dem_rep,2013,0.48
-congo_rep,1990,0.08
-congo_rep,1991,0.06
-congo_rep,1992,0.08
-congo_rep,1993,0.06
-congo_rep,1994,0.06
-congo_rep,1995,0.05
-congo_rep,1996,0.08
-congo_rep,1997,0.05
-congo_rep,1998,0.06
-congo_rep,1999,0.05
-congo_rep,2000,0.08
-congo_rep,2001,0.11
-congo_rep,2002,0.09
-congo_rep,2003,0.1
-congo_rep,2004,0.09
-congo_rep,2005,0.11
-congo_rep,2006,0.11
-congo_rep,2007,0.23
-congo_rep,2008,0.28
-congo_rep,2009,0.16
-congo_rep,2010,0.14
-congo_rep,2011,0.16
-congo_rep,2012,0.15
-congo_rep,2013,0.14
+colombia,2014,6.07
+congo,1990,0.08
+congo,1991,0.06
+congo,1992,0.08
+congo,1993,0.06
+congo,1994,0.06
+congo,1995,0.05
+congo,1996,0.08
+congo,1997,0.05
+congo,1998,0.06
+congo,1999,0.05
+congo,2000,0.08
+congo,2001,0.11
+congo,2002,0.09
+congo,2003,0.1
+congo,2004,0.09
+congo,2005,0.11
+congo,2006,0.11
+congo,2007,0.23
+congo,2008,0.28
+congo,2009,0.16
+congo,2010,0.14
+congo,2011,0.16
+congo,2012,0.15
+congo,2013,0.14
+congo,2014,0.13
+congo_dem_republic,1990,0.43
+congo_dem_republic,1991,0.44
+congo_dem_republic,1992,0.43
+congo_dem_republic,1993,0.43
+congo_dem_republic,1994,0.35
+congo_dem_republic,1995,0.36
+congo_dem_republic,1996,0.36
+congo_dem_republic,1997,0.37
+congo_dem_republic,1998,0.37
+congo_dem_republic,1999,0.36
+congo_dem_republic,2000,0.24
+congo_dem_republic,2001,0.25
+congo_dem_republic,2002,0.33
+congo_dem_republic,2003,0.36
+congo_dem_republic,2004,0.4
+congo_dem_republic,2005,0.51
+congo_dem_republic,2006,0.65
+congo_dem_republic,2007,0.54
+congo_dem_republic,2008,0.05
+congo_dem_republic,2009,0.05
+congo_dem_republic,2010,0.47
+congo_dem_republic,2011,0.46
+congo_dem_republic,2012,0.44
+congo_dem_republic,2013,0.48
+congo_dem_republic,2014,0.72
 costa_rica,1990,0.25
 costa_rica,1991,0.19
 costa_rica,1992,0.38
@@ -666,6 +693,7 @@ costa_rica,2010,0.59
 costa_rica,2011,0.6
 costa_rica,2012,0.54
 costa_rica,2013,0.49
+costa_rica,2014,0.49
 cote_d_ivoire,1990,0.39
 cote_d_ivoire,1991,0.54
 cote_d_ivoire,1992,0.59
@@ -690,6 +718,7 @@ cote_d_ivoire,2010,0.24
 cote_d_ivoire,2011,0.21
 cote_d_ivoire,2012,0.25
 cote_d_ivoire,2013,0.23
+cote_d_ivoire,2014,0.36
 croatia,1990,0.64
 croatia,1991,0.09
 croatia,1992,0.07
@@ -714,6 +743,7 @@ croatia,2010,0.31
 croatia,2011,0.37
 croatia,2012,0.32
 croatia,2013,0.35
+croatia,2014,0.35
 cuba,1990,1.05
 cuba,1991,0.92
 cuba,1992,0.69
@@ -738,6 +768,7 @@ cuba,2010,2.88
 cuba,2011,2.39
 cuba,2012,2.67
 cuba,2013,1.8
+cuba,2014,2.66
 cyprus,1990,0.91
 cyprus,1991,1.03
 cyprus,1992,1.02
@@ -762,6 +793,7 @@ cyprus,2010,1.41
 cyprus,2011,1.52
 cyprus,2012,1.42
 cyprus,2013,1.47
+cyprus,2014,1.44
 czech_republic,1990,0.66
 czech_republic,1991,0.46
 czech_republic,1992,0.53
@@ -786,6 +818,7 @@ czech_republic,2010,0.93
 czech_republic,2011,0.92
 czech_republic,2012,0.87
 czech_republic,2013,0.84
+czech_republic,2014,0.87
 denmark,1990,4.77
 denmark,1991,4.36
 denmark,1992,4.54
@@ -810,6 +843,7 @@ denmark,2010,4.61
 denmark,2011,4.7
 denmark,2012,4.11
 denmark,2013,4.45
+denmark,2014,5.01
 dominican_republic,1990,0.11
 dominican_republic,1991,0.11
 dominican_republic,1992,0.15
@@ -834,6 +868,7 @@ dominican_republic,2010,1.23
 dominican_republic,2011,1.33
 dominican_republic,2012,1.49
 dominican_republic,2013,1.36
+dominican_republic,2014,1.47
 ecuador,1990,0.89
 ecuador,1991,0.82
 ecuador,1992,1.09
@@ -858,6 +893,7 @@ ecuador,2010,2.76
 ecuador,2011,2.76
 ecuador,2012,2.42
 ecuador,2013,2.43
+ecuador,2014,2.56
 egypt,1990,5.84
 egypt,1991,5.91
 egypt,1992,4.98
@@ -882,6 +918,7 @@ egypt,2010,9.69
 egypt,2011,9.48
 egypt,2012,8.59
 egypt,2013,7.58
+egypt,2014,7.24
 el_salvador,1990,0.11
 el_salvador,1991,0.09
 el_salvador,1992,0.13
@@ -906,6 +943,7 @@ el_salvador,2010,0.34
 el_salvador,2011,0.35
 el_salvador,2012,0.26
 el_salvador,2013,0.46
+el_salvador,2014,0.48
 eritrea,1992,0.72
 eritrea,1993,0.5
 eritrea,1994,0.67
@@ -928,6 +966,7 @@ eritrea,2010,0
 eritrea,2011,0
 eritrea,2012,0
 eritrea,2013,0
+eritrea,2014,0
 estonia,1990,0.67
 estonia,1991,0.78
 estonia,1992,0.42
@@ -952,6 +991,7 @@ estonia,2010,0.81
 estonia,2011,0.7
 estonia,2012,1.39
 estonia,2013,1.43
+estonia,2014,1.15
 ethiopia,1990,0.57
 ethiopia,1991,0.59
 ethiopia,1992,0.12
@@ -976,30 +1016,7 @@ ethiopia,2010,0.87
 ethiopia,2011,0.87
 ethiopia,2012,1.01
 ethiopia,2013,1.12
-european_union_15,1990,175.43
-european_union_15,1991,173.87
-european_union_15,1992,180.2
-european_union_15,1993,187.3
-european_union_15,1994,187.38
-european_union_15,1995,190.93
-european_union_15,1996,201.13
-european_union_15,1997,216.5
-european_union_15,1998,228.73
-european_union_15,1999,228.55
-european_union_15,2000,240.89
-european_union_15,2001,241.22
-european_union_15,2002,243.54
-european_union_15,2003,249.89
-european_union_15,2004,265.75
-european_union_15,2005,273.88
-european_union_15,2006,288.57
-european_union_15,2007,299.74
-european_union_15,2008,300.95
-european_union_15,2009,272.26
-european_union_15,2010,270.73
-european_union_15,2011,276.26
-european_union_15,2012,262.35
-european_union_15,2013,254.48
+ethiopia,2014,1.23
 european_union_28,1990,185.11
 european_union_28,1991,181.92
 european_union_28,1992,188.88
@@ -1024,6 +1041,7 @@ european_union_28,2010,285.34
 european_union_28,2011,290.22
 european_union_28,2012,276.14
 european_union_28,2013,268.51
+european_union_28,2014,265.26
 finland,1990,2.78
 finland,1991,2.64
 finland,1992,2.97
@@ -1048,6 +1066,7 @@ finland,2010,2.27
 finland,2011,2.53
 finland,2012,2.22
 finland,2013,2.3
+finland,2014,2.17
 france,1990,17.28
 france,1991,16.78
 france,1992,17.83
@@ -1072,6 +1091,7 @@ france,2010,23.9
 france,2011,25.31
 france,2012,24.39
 france,2013,23.57
+france,2014,22.7
 gabon,1990,0.28
 gabon,1991,0.26
 gabon,1992,0.86
@@ -1096,6 +1116,7 @@ gabon,2010,0.92
 gabon,2011,0.83
 gabon,2012,0.88
 gabon,2013,0.82
+gabon,2014,0.78
 georgia,1990,0.61
 georgia,1991,0.98
 georgia,1992,0.79
@@ -1120,6 +1141,7 @@ georgia,2010,0.12
 georgia,2011,0.11
 georgia,2012,0.11
 georgia,2013,0.26
+georgia,2014,0.25
 germany,1990,21.26
 germany,1991,19.32
 germany,1992,19.13
@@ -1144,6 +1166,7 @@ germany,2010,32.74
 germany,2011,31.69
 germany,2012,32.66
 germany,2013,32.37
+germany,2014,31.38
 ghana,1990,0.14
 ghana,1991,0.11
 ghana,1992,0.14
@@ -1168,6 +1191,7 @@ ghana,2010,0.49
 ghana,2011,0.55
 ghana,2012,0.54
 ghana,2013,0.49
+ghana,2014,0.39
 greece,1990,10.47
 greece,1991,9.51
 greece,1992,10.7
@@ -1192,6 +1216,7 @@ greece,2010,10.77
 greece,2011,11.08
 greece,2012,9.22
 greece,2013,8.85
+greece,2014,8.33
 guatemala,1990,0.56
 guatemala,1991,0.57
 guatemala,1992,0.6
@@ -1216,6 +1241,7 @@ guatemala,2010,1.1
 guatemala,2011,1.12
 guatemala,2012,1.1
 guatemala,2013,1.13
+guatemala,2014,1.1
 haiti,1990,0.07
 haiti,1991,0.06
 haiti,1992,0.04
@@ -1240,6 +1266,7 @@ haiti,2010,0.06
 haiti,2011,0.05
 haiti,2012,0.17
 haiti,2013,0.28
+haiti,2014,0.11
 honduras,1990,0.09
 honduras,1991,0.09
 honduras,1992,0.12
@@ -1264,6 +1291,7 @@ honduras,2010,0.15
 honduras,2011,0.17
 honduras,2012,0.16
 honduras,2013,0.13
+honduras,2014,0.21
 hungary,1990,0.49
 hungary,1991,0.39
 hungary,1992,0.41
@@ -1288,6 +1316,7 @@ hungary,2010,0.7
 hungary,2011,0.71
 hungary,2012,0.51
 hungary,2013,0.5
+hungary,2014,0.53
 iceland,1990,0.32
 iceland,1991,0.23
 iceland,1992,0.26
@@ -1312,6 +1341,7 @@ iceland,2010,0.55
 iceland,2011,0.61
 iceland,2012,0.61
 iceland,2013,0.57
+iceland,2014,0.61
 india,1990,5.12
 india,1991,4.86
 india,1992,4.95
@@ -1336,6 +1366,7 @@ india,2010,15.51
 india,2011,16.43
 india,2012,15.72
 india,2013,16.33
+india,2014,16.67
 indonesia,1990,2.67
 indonesia,1991,1.65
 indonesia,1992,1.73
@@ -1360,6 +1391,7 @@ indonesia,2010,2.6
 indonesia,2011,2.76
 indonesia,2012,2.92
 indonesia,2013,3.09
+indonesia,2014,3.24
 iran,1990,2.77
 iran,1991,3.19
 iran,1992,3.24
@@ -1384,6 +1416,7 @@ iran,2010,11.22
 iran,2011,10.67
 iran,2012,9.6
 iran,2013,13.3
+iran,2014,15.45
 iraq,1990,1.39
 iraq,1991,0.93
 iraq,1992,1.02
@@ -1408,6 +1441,7 @@ iraq,2010,2.96
 iraq,2011,3.03
 iraq,2012,1.58
 iraq,2013,1.82
+iraq,2014,2.26
 ireland,1990,1.1
 ireland,1991,1.11
 ireland,1992,0.96
@@ -1432,6 +1466,7 @@ ireland,2010,2.42
 ireland,2011,2.32
 ireland,2012,1.99
 ireland,2013,2.28
+ireland,2014,2.56
 israel,1990,1.98
 israel,1991,2.03
 israel,1992,2.18
@@ -1456,6 +1491,7 @@ israel,2010,3.5
 israel,2011,3.57
 israel,2012,3.53
 israel,2013,4.2
+israel,2014,3.76
 italy,1990,13.06
 italy,1991,13.29
 italy,1992,13
@@ -1480,6 +1516,7 @@ italy,2010,19.07
 italy,2011,17.78
 italy,2012,17.24
 italy,2013,16.02
+italy,2014,15.38
 jamaica,1990,0.57
 jamaica,1991,0.57
 jamaica,1992,0.59
@@ -1504,6 +1541,7 @@ jamaica,2010,0.86
 jamaica,2011,0.89
 jamaica,2012,0.8
 jamaica,2013,1.23
+jamaica,2014,1.22
 japan,1990,31.35
 japan,1991,33.07
 japan,1992,33.49
@@ -1528,6 +1566,7 @@ japan,2010,31.53
 japan,2011,31.73
 japan,2012,32.44
 japan,2013,32.54
+japan,2014,30.61
 jordan,1990,0.67
 jordan,1991,0.46
 jordan,1992,0.6
@@ -1552,6 +1591,7 @@ jordan,2010,1.14
 jordan,2011,1.04
 jordan,2012,1.15
 jordan,2013,1.14
+jordan,2014,1.03
 kazakhstan,1990,2.7
 kazakhstan,1991,2.48
 kazakhstan,1992,2.27
@@ -1576,6 +1616,7 @@ kazakhstan,2010,0.62
 kazakhstan,2011,0.55
 kazakhstan,2012,0.61
 kazakhstan,2013,0.5
+kazakhstan,2014,0.69
 kenya,1990,1.4
 kenya,1991,1.2
 kenya,1992,1.42
@@ -1600,54 +1641,57 @@ kenya,2010,1.84
 kenya,2011,2.34
 kenya,2012,2.33
 kenya,2013,1.88
-korea_dem_rep_north,1990,0
-korea_dem_rep_north,1991,0
-korea_dem_rep_north,1992,0
-korea_dem_rep_north,1993,0
-korea_dem_rep_north,1994,0
-korea_dem_rep_north,1995,0
-korea_dem_rep_north,1996,0
-korea_dem_rep_north,1997,0
-korea_dem_rep_north,1998,0
-korea_dem_rep_north,1999,0
-korea_dem_rep_north,2000,0
-korea_dem_rep_north,2001,0
-korea_dem_rep_north,2002,0
-korea_dem_rep_north,2003,0
-korea_dem_rep_north,2004,0
-korea_dem_rep_north,2005,0
-korea_dem_rep_north,2006,0
-korea_dem_rep_north,2007,0
-korea_dem_rep_north,2008,0
-korea_dem_rep_north,2009,0
-korea_dem_rep_north,2010,0
-korea_dem_rep_north,2011,0
-korea_dem_rep_north,2012,0
-korea_dem_rep_north,2013,0
-korea_rep_south,1990,6.17
-korea_rep_south,1991,9.12
-korea_rep_south,1992,11.78
-korea_rep_south,1993,14.4
-korea_rep_south,1994,20.54
-korea_rep_south,1995,23.64
-korea_rep_south,1996,28.91
-korea_rep_south,1997,31.77
-korea_rep_south,1998,31.97
-korea_rep_south,1999,33.59
-korea_rep_south,2000,32.48
-korea_rep_south,2001,31.73
-korea_rep_south,2002,31.66
-korea_rep_south,2003,34.89
-korea_rep_south,2004,36.42
-korea_rep_south,2005,40.9
-korea_rep_south,2006,42.55
-korea_rep_south,2007,40.69
-korea_rep_south,2008,40.85
-korea_rep_south,2009,38.12
-korea_rep_south,2010,41.05
-korea_rep_south,2011,40.36
-korea_rep_south,2012,39.61
-korea_rep_south,2013,39.68
+kenya,2014,1.81
+korea_north,1990,0
+korea_north,1991,0
+korea_north,1992,0
+korea_north,1993,0
+korea_north,1994,0
+korea_north,1995,0
+korea_north,1996,0
+korea_north,1997,0
+korea_north,1998,0
+korea_north,1999,0
+korea_north,2000,0
+korea_north,2001,0
+korea_north,2002,0
+korea_north,2003,0
+korea_north,2004,0
+korea_north,2005,0
+korea_north,2006,0
+korea_north,2007,0
+korea_north,2008,0
+korea_north,2009,0
+korea_north,2010,0
+korea_north,2011,0
+korea_north,2012,0
+korea_north,2013,0
+korea_north,2014,0
+korea_south,1990,6.17
+korea_south,1991,9.12
+korea_south,1992,11.78
+korea_south,1993,14.4
+korea_south,1994,20.54
+korea_south,1995,23.64
+korea_south,1996,28.91
+korea_south,1997,31.77
+korea_south,1998,31.97
+korea_south,1999,33.59
+korea_south,2000,32.48
+korea_south,2001,31.73
+korea_south,2002,31.66
+korea_south,2003,34.89
+korea_south,2004,36.42
+korea_south,2005,40.9
+korea_south,2006,42.55
+korea_south,2007,40.69
+korea_south,2008,40.85
+korea_south,2009,38.12
+korea_south,2010,41.05
+korea_south,2011,40.36
+korea_south,2012,39.61
+korea_south,2013,39.68
+korea_south,2014,40.16
 kuwait,1990,1.08
 kuwait,1991,0.44
 kuwait,1992,2.22
@@ -1672,6 +1716,7 @@ kuwait,2010,3.96
 kuwait,2011,5.48
 kuwait,2012,5.48
 kuwait,2013,5.51
+kuwait,2014,5.83
 kyrgyzstan,1990,0.26
 kyrgyzstan,1991,0.22
 kyrgyzstan,1992,0.18
@@ -1696,6 +1741,7 @@ kyrgyzstan,2010,0.83
 kyrgyzstan,2011,0.16
 kyrgyzstan,2012,0.09
 kyrgyzstan,2013,0.15
+kyrgyzstan,2014,0.01
 latvia,1990,1.72
 latvia,1991,0.75
 latvia,1992,0.65
@@ -1720,6 +1766,7 @@ latvia,2010,1.15
 latvia,2011,1.03
 latvia,2012,1.11
 latvia,2013,1.13
+latvia,2014,1.06
 lebanon,1990,0.16
 lebanon,1991,0.27
 lebanon,1992,0.37
@@ -1744,6 +1791,7 @@ lebanon,2010,0.8
 lebanon,2011,0.81
 lebanon,2012,0.75
 lebanon,2013,0.92
+lebanon,2014,0.83
 libya,1990,0.89
 libya,1991,0.92
 libya,1992,0.93
@@ -1768,6 +1816,7 @@ libya,2010,1.79
 libya,2011,0.42
 libya,2012,1.77
 libya,2013,1.25
+libya,2014,0.68
 lithuania,1990,0.7
 lithuania,1991,0.98
 lithuania,1992,1.12
@@ -1792,6 +1841,7 @@ lithuania,2010,0.59
 lithuania,2011,0.62
 lithuania,2012,0.58
 lithuania,2013,0.49
+lithuania,2014,0.26
 luxembourg,1990,0.39
 luxembourg,1991,0.41
 luxembourg,1992,0.4
@@ -1816,6 +1866,7 @@ luxembourg,2010,1.29
 luxembourg,2011,1.21
 luxembourg,2012,1.11
 luxembourg,2013,1.12
+luxembourg,2014,1.21
 macedonia_fyr,1990,0.02
 macedonia_fyr,1991,0.02
 macedonia_fyr,1992,0.02
@@ -1840,6 +1891,7 @@ macedonia_fyr,2010,0.02
 macedonia_fyr,2011,0.01
 macedonia_fyr,2012,0.02
 macedonia_fyr,2013,0.02
+macedonia_fyr,2014,0.03
 malaysia,1990,1.81
 malaysia,1991,2.01
 malaysia,1992,2.07
@@ -1864,6 +1916,7 @@ malaysia,2010,5.89
 malaysia,2011,6.76
 malaysia,2012,6.22
 malaysia,2013,8.31
+malaysia,2014,8.23
 malta,1990,0.31
 malta,1991,0.38
 malta,1992,0.4
@@ -1888,6 +1941,7 @@ malta,2010,4.95
 malta,2011,4.59
 malta,2012,4.1
 malta,2013,4.09
+malta,2014,4.23
 mauritius,1990,0.4
 mauritius,1991,0.42
 mauritius,1992,0.47
@@ -1912,6 +1966,7 @@ mauritius,2010,1.47
 mauritius,2011,1.67
 mauritius,2012,1.62
 mauritius,2013,1.57
+mauritius,2014,1.67
 mexico,1990,5.29
 mexico,1991,5.5
 mexico,1992,6.09
@@ -1936,6 +1991,7 @@ mexico,2010,10.69
 mexico,2011,11.08
 mexico,2012,11.58
 mexico,2013,11.62
+mexico,2014,12.27
 moldova,1990,0.22
 moldova,1991,0.23
 moldova,1992,0.1
@@ -1960,6 +2016,7 @@ moldova,2010,0.06
 moldova,2011,0.06
 moldova,2012,0.07
 moldova,2013,0.06
+moldova,2014,0.08
 mongolia,1990,0.01
 mongolia,1991,0
 mongolia,1992,0
@@ -1984,6 +2041,7 @@ mongolia,2010,0.05
 mongolia,2011,0.08
 mongolia,2012,0.11
 mongolia,2013,0.12
+mongolia,2014,0.08
 montenegro,2005,0.04
 montenegro,2006,0.05
 montenegro,2007,0.03
@@ -1993,6 +2051,7 @@ montenegro,2010,0.01
 montenegro,2011,0.03
 montenegro,2012,0.04
 montenegro,2013,0.04
+montenegro,2014,0.05
 morocco,1990,0.85
 morocco,1991,0.62
 morocco,1992,0.72
@@ -2017,6 +2076,7 @@ morocco,2010,2.22
 morocco,2011,2.23
 morocco,2012,2.04
 morocco,2013,2.27
+morocco,2014,2.44
 mozambique,1990,0.22
 mozambique,1991,0.14
 mozambique,1992,0.1
@@ -2041,6 +2101,7 @@ mozambique,2010,0.2
 mozambique,2011,0.19
 mozambique,2012,0.21
 mozambique,2013,0.22
+mozambique,2014,0.38
 myanmar,1990,0.02
 myanmar,1991,0.02
 myanmar,1992,0.11
@@ -2065,6 +2126,7 @@ myanmar,2010,0.07
 myanmar,2011,0.07
 myanmar,2012,0.12
 myanmar,2013,0.13
+myanmar,2014,0.14
 namibia,1991,0.08
 namibia,1992,0.09
 namibia,1993,0.11
@@ -2088,6 +2150,7 @@ namibia,2010,0.12
 namibia,2011,0.12
 namibia,2012,0.13
 namibia,2013,0.14
+namibia,2014,0.15
 nepal,1990,0.05
 nepal,1991,0.06
 nepal,1992,0.08
@@ -2112,6 +2175,7 @@ nepal,2010,0.26
 nepal,2011,0.28
 nepal,2012,0.3
 nepal,2013,0.31
+nepal,2014,0.36
 netherlands,1990,39.13
 netherlands,1991,40.44
 netherlands,1992,41.68
@@ -2136,6 +2200,7 @@ netherlands,2010,53.73
 netherlands,2011,57.49
 netherlands,2012,53.26
 netherlands,2013,51.68
+netherlands,2014,51.44
 new_zealand,1990,2.38
 new_zealand,1991,2.22
 new_zealand,1992,2.15
@@ -2160,6 +2225,7 @@ new_zealand,2010,3.41
 new_zealand,2011,3.45
 new_zealand,2012,3.45
 new_zealand,2013,3.58
+new_zealand,2014,3.45
 nicaragua,1990,0.08
 nicaragua,1991,0.07
 nicaragua,1992,0.05
@@ -2184,6 +2250,7 @@ nicaragua,2010,0.06
 nicaragua,2011,0.06
 nicaragua,2012,0.06
 nicaragua,2013,0.06
+nicaragua,2014,0.07
 niger,2000,0.05
 niger,2001,0.03
 niger,2002,0.03
@@ -2198,6 +2265,7 @@ niger,2010,0.04
 niger,2011,0.05
 niger,2012,0.04
 niger,2013,0.07
+niger,2014,0.1
 nigeria,1990,1.55
 nigeria,1991,2.24
 nigeria,1992,2.19
@@ -2222,6 +2290,7 @@ nigeria,2010,1.84
 nigeria,2011,1.84
 nigeria,2012,1.82
 nigeria,2013,2.25
+nigeria,2014,2.14
 norway,1990,2.67
 norway,1991,2.44
 norway,1992,2.81
@@ -2246,6 +2315,7 @@ norway,2010,2.51
 norway,2011,2.46
 norway,2012,2.24
 norway,2013,2.6
+norway,2014,1.97
 oman,1990,1
 oman,1991,0.89
 oman,1992,0.59
@@ -2270,6 +2340,7 @@ oman,2010,4.92
 oman,2011,3.19
 oman,2012,3.99
 oman,2013,4.23
+oman,2014,5.29
 pakistan,1990,1.52
 pakistan,1991,1.62
 pakistan,1992,1.71
@@ -2294,6 +2365,7 @@ pakistan,2010,1.05
 pakistan,2011,0.94
 pakistan,2012,0.86
 pakistan,2013,0.92
+pakistan,2014,0.96
 panama,1990,5.2
 panama,1991,5.67
 panama,1992,6.14
@@ -2318,6 +2390,7 @@ panama,2010,10.64
 panama,2011,11.76
 panama,2012,11.99
 panama,2013,11.98
+panama,2014,11.85
 paraguay,1990,0.03
 paraguay,1991,0.03
 paraguay,1992,0.03
@@ -2342,6 +2415,7 @@ paraguay,2010,0.07
 paraguay,2011,0.07
 paraguay,2012,0.08
 paraguay,2013,0.09
+paraguay,2014,0.11
 peru,1990,0.77
 peru,1991,0.83
 peru,1992,0.95
@@ -2366,6 +2440,7 @@ peru,2010,2.72
 peru,2011,3.18
 peru,2012,2.8
 peru,2013,2.41
+peru,2014,2.47
 philippines,1990,1.23
 philippines,1991,1.16
 philippines,1992,1.44
@@ -2390,6 +2465,7 @@ philippines,2010,3.55
 philippines,2011,3.89
 philippines,2012,3.82
 philippines,2013,3.8
+philippines,2014,3.4
 poland,1990,1.91
 poland,1991,1.17
 poland,1992,1.5
@@ -2414,6 +2490,7 @@ poland,2010,2.21
 poland,2011,2.03
 poland,2012,2.07
 poland,2013,2.01
+poland,2014,2.21
 portugal,1990,3.31
 portugal,1991,3.4
 portugal,1992,3.46
@@ -2438,6 +2515,7 @@ portugal,2010,4.11
 portugal,2011,4.54
 portugal,2012,4.71
 portugal,2013,4.86
+portugal,2014,4.9
 qatar,1990,0.35
 qatar,1991,0.27
 qatar,1992,0.32
@@ -2462,6 +2540,7 @@ qatar,2010,3.61
 qatar,2011,4.59
 qatar,2012,6.13
 qatar,2013,6.34
+qatar,2014,4
 romania,1990,0.7
 romania,1991,0.49
 romania,1992,0.74
@@ -2486,6 +2565,7 @@ romania,2010,0.48
 romania,2011,0.42
 romania,2012,0.39
 romania,2013,0.56
+romania,2014,0.8
 russian_federation,1990,32.56
 russian_federation,1991,23.06
 russian_federation,1992,21.43
@@ -2510,6 +2590,7 @@ russian_federation,2010,23.51
 russian_federation,2011,28.76
 russian_federation,2012,25.41
 russian_federation,2013,34.44
+russian_federation,2014,64.06
 saudi_arabia,1990,10.63
 saudi_arabia,1991,13.32
 saudi_arabia,1992,13.9
@@ -2534,6 +2615,7 @@ saudi_arabia,2010,14.41
 saudi_arabia,2011,16.36
 saudi_arabia,2012,17.16
 saudi_arabia,2013,16.61
+saudi_arabia,2014,17.35
 senegal,1990,0.57
 senegal,1991,0.44
 senegal,1992,0.46
@@ -2558,6 +2640,7 @@ senegal,2010,0.9
 senegal,2011,0.91
 senegal,2012,0.85
 senegal,2013,1.01
+senegal,2014,1.05
 serbia,1990,0.43
 serbia,1991,0.31
 serbia,1992,0.18
@@ -2582,6 +2665,7 @@ serbia,2010,0.13
 serbia,2011,0.14
 serbia,2012,0.13
 serbia,2013,0.16
+serbia,2014,0.26
 singapore,1990,39.9
 singapore,1991,37.15
 singapore,1992,45.05
@@ -2606,6 +2690,7 @@ singapore,2010,144.4
 singapore,2011,152.88
 singapore,2012,153.43
 singapore,2013,154.33
+singapore,2014,153.65
 slovakia,1990,0
 slovakia,1991,0
 slovakia,1992,0
@@ -2630,6 +2715,7 @@ slovakia,2010,0.12
 slovakia,2011,0.13
 slovakia,2012,0.11
 slovakia,2013,0.12
+slovakia,2014,0.1
 slovenia,1990,0.08
 slovenia,1991,0.02
 slovenia,1992,0.03
@@ -2654,6 +2740,7 @@ slovenia,2010,0.14
 slovenia,2011,0.17
 slovenia,2012,0.23
 slovenia,2013,0.27
+slovenia,2014,0.26
 south_africa,1990,7.12
 south_africa,1991,7.71
 south_africa,1992,9.82
@@ -2678,6 +2765,7 @@ south_africa,2010,12.25
 south_africa,2011,12.74
 south_africa,2012,13.8
 south_africa,2013,13.38
+south_africa,2014,10.81
 spain,1990,14.92
 spain,1991,16.27
 spain,1992,17.17
@@ -2702,6 +2790,7 @@ spain,2010,35.9
 spain,2011,38.32
 spain,2012,37.55
 spain,2013,33.75
+spain,2014,35.81
 sri_lanka,1990,1.22
 sri_lanka,1991,0.97
 sri_lanka,1992,0.95
@@ -2726,6 +2815,7 @@ sri_lanka,2010,1.01
 sri_lanka,2011,1.57
 sri_lanka,2012,2.11
 sri_lanka,2013,2.11
+sri_lanka,2014,2.8
 sudan,1990,0.12
 sudan,1991,0.12
 sudan,1992,0.12
@@ -2750,6 +2840,7 @@ sudan,2010,0.91
 sudan,2011,1.04
 sudan,2012,0.76
 sudan,2013,0.84
+sudan,2014,0.84
 suriname,2000,0.07
 suriname,2001,0.07
 suriname,2002,0.09
@@ -2764,6 +2855,7 @@ suriname,2010,0.13
 suriname,2011,0.14
 suriname,2012,0.14
 suriname,2013,0.15
+suriname,2014,0.15
 sweden,1990,3.2
 sweden,1991,3.6
 sweden,1992,4.01
@@ -2788,6 +2880,7 @@ sweden,2010,8.31
 sweden,2011,7.71
 sweden,2012,7.5
 sweden,2013,7.47
+sweden,2014,7.63
 switzerland,1990,3.09
 switzerland,1991,2.92
 switzerland,1992,3.16
@@ -2812,6 +2905,7 @@ switzerland,2010,4.23
 switzerland,2011,4.55
 switzerland,2012,4.62
 switzerland,2013,4.63
+switzerland,2014,4.72
 syria,1990,3.73
 syria,1991,3.9
 syria,1992,4.05
@@ -2836,6 +2930,7 @@ syria,2010,3.56
 syria,2011,3.08
 syria,2012,1.97
 syria,2013,1.27
+syria,2014,0.82
 tajikistan,1990,0.05
 tajikistan,1991,0.05
 tajikistan,1992,0.05
@@ -2860,6 +2955,7 @@ tajikistan,2010,0.09
 tajikistan,2011,0.1
 tajikistan,2012,0.1
 tajikistan,2013,0.11
+tajikistan,2014,0.19
 tanzania,1990,0.3
 tanzania,1991,0.29
 tanzania,1992,0.28
@@ -2884,6 +2980,7 @@ tanzania,2010,0.48
 tanzania,2011,0.52
 tanzania,2012,0.54
 tanzania,2013,0.59
+tanzania,2014,0.63
 thailand,1990,7.36
 thailand,1991,7.34
 thailand,1992,8.94
@@ -2908,6 +3005,7 @@ thailand,2010,14.46
 thailand,2011,14.13
 thailand,2012,13.28
 thailand,2013,14.13
+thailand,2014,14.93
 togo,1990,0.11
 togo,1991,0.09
 togo,1992,0.08
@@ -2932,6 +3030,7 @@ togo,2010,0.27
 togo,2011,0.25
 togo,2012,0.27
 togo,2013,0.29
+togo,2014,0.3
 trinidad_tobago,1990,0.31
 trinidad_tobago,1991,0.29
 trinidad_tobago,1992,0.37
@@ -2956,6 +3055,7 @@ trinidad_tobago,2010,1.92
 trinidad_tobago,2011,2.14
 trinidad_tobago,2012,1.98
 trinidad_tobago,2013,2.62
+trinidad_tobago,2014,2.12
 tunisia,1990,0.64
 tunisia,1991,0.51
 tunisia,1992,0.67
@@ -2980,6 +3080,7 @@ tunisia,2010,0.8
 tunisia,2011,0.77
 tunisia,2012,0.91
 tunisia,2013,0.92
+tunisia,2014,0.87
 turkey,1990,0.92
 turkey,1991,1.12
 turkey,1992,1.12
@@ -3004,6 +3105,7 @@ turkey,2010,4.8
 turkey,2011,3.96
 turkey,2012,3.67
 turkey,2013,6.89
+turkey,2014,11.01
 turkmenistan,1990,0.76
 turkmenistan,1991,1.03
 turkmenistan,1992,0.93
@@ -3028,6 +3130,7 @@ turkmenistan,2010,1.63
 turkmenistan,2011,1.48
 turkmenistan,2012,1.28
 turkmenistan,2013,1.4
+turkmenistan,2014,1.45
 ukraine,1990,6.18
 ukraine,1991,5.57
 ukraine,1992,2.18
@@ -3052,6 +3155,7 @@ ukraine,2010,0.83
 ukraine,2011,0.74
 ukraine,2012,0.92
 ukraine,2013,0.38
+ukraine,2014,0.4
 united_arab_emirates,1990,29.08
 united_arab_emirates,1991,39.96
 united_arab_emirates,1992,39.82
@@ -3076,6 +3180,7 @@ united_arab_emirates,2010,55.72
 united_arab_emirates,2011,59
 united_arab_emirates,2012,58.59
 united_arab_emirates,2013,60.33
+united_arab_emirates,2014,63.42
 united_kingdom,1990,26.97
 united_kingdom,1991,25.63
 united_kingdom,1992,27.23
@@ -3100,30 +3205,32 @@ united_kingdom,2010,40.88
 united_kingdom,2011,43.19
 united_kingdom,2012,40.74
 united_kingdom,2013,40.08
-united_states,1990,130.79
-united_states,1991,137.05
-united_states,1992,143.94
-united_states,1993,132.43
-united_states,1994,130.13
-united_states,1995,137.85
-united_states,1996,134.58
-united_states,1997,126.7
-united_states,1998,126.46
-united_states,1999,140.46
-united_states,2000,147.49
-united_states,2001,114.25
-united_states,2002,138.8
-united_states,2003,123.06
-united_states,2004,141.2
-united_states,2005,151.48
-united_states,2006,158.28
-united_states,2007,168.05
-united_states,2008,154.06
-united_states,2009,141.12
-united_states,2010,148.78
-united_states,2011,149.68
-united_states,2012,110.22
-united_states,2013,116.5
+united_kingdom,2014,39.4
+united_states_of_america,1990,130.79
+united_states_of_america,1991,137.05
+united_states_of_america,1992,143.94
+united_states_of_america,1993,132.43
+united_states_of_america,1994,130.13
+united_states_of_america,1995,137.85
+united_states_of_america,1996,134.58
+united_states_of_america,1997,126.7
+united_states_of_america,1998,126.46
+united_states_of_america,1999,140.46
+united_states_of_america,2000,147.49
+united_states_of_america,2001,114.25
+united_states_of_america,2002,138.8
+united_states_of_america,2003,123.06
+united_states_of_america,2004,141.2
+united_states_of_america,2005,151.48
+united_states_of_america,2006,158.28
+united_states_of_america,2007,168.05
+united_states_of_america,2008,154.06
+united_states_of_america,2009,141.12
+united_states_of_america,2010,148.78
+united_states_of_america,2011,149.68
+united_states_of_america,2012,110.22
+united_states_of_america,2013,116.5
+united_states_of_america,2014,113.36
 uruguay,1990,0.37
 uruguay,1991,0.45
 uruguay,1992,0.65
@@ -3148,6 +3255,7 @@ uruguay,2010,1.66
 uruguay,2011,1.48
 uruguay,2012,1.27
 uruguay,2013,0.95
+uruguay,2014,0.92
 uzbekistan,1990,0
 uzbekistan,1991,0
 uzbekistan,1992,0
@@ -3172,6 +3280,7 @@ uzbekistan,2010,0
 uzbekistan,2011,0
 uzbekistan,2012,0
 uzbekistan,2013,0
+uzbekistan,2014,0
 venezuela,1990,3.56
 venezuela,1991,4.17
 venezuela,1992,3.93
@@ -3196,6 +3305,7 @@ venezuela,2010,4.67
 venezuela,2011,3.35
 venezuela,2012,4.98
 venezuela,2013,4.95
+venezuela,2014,4.89
 vietnam,1990,0.09
 vietnam,1991,0.1
 vietnam,1992,0.11
@@ -3220,6 +3330,7 @@ vietnam,2010,3.06
 vietnam,2011,2.42
 vietnam,2012,2.52
 vietnam,2013,2.73
+vietnam,2014,2.76
 world,1990,630.23
 world,1991,637.52
 world,1992,674.83
@@ -3244,6 +3355,7 @@ world,2010,1126.06
 world,2011,1147.01
 world,2012,1088.82
 world,2013,1105.33
+world,2014,1130.44
 yemen,1990,1.43
 yemen,1991,1.18
 yemen,1992,1.43
@@ -3268,6 +3380,7 @@ yemen,2010,0.71
 yemen,2011,0.5
 yemen,2012,0.42
 yemen,2013,0.62
+yemen,2014,0.57
 zambia,1990,0.2
 zambia,1991,0.11
 zambia,1992,0.12
@@ -3292,6 +3405,7 @@ zambia,2010,0.09
 zambia,2011,0.1
 zambia,2012,0.15
 zambia,2013,0.15
+zambia,2014,0.12
 zimbabwe,1990,0.25
 zimbabwe,1991,0.44
 zimbabwe,1992,0.25
@@ -3316,3 +3430,4 @@ zimbabwe,2010,0.03
 zimbabwe,2011,0.03
 zimbabwe,2012,0.03
 zimbabwe,2013,0.03
+zimbabwe,2014,0.03
