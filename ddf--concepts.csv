@@ -1,28 +1,28 @@
 concept,name,concept_type
-gdp_ppp_million_intl_2011,GDP-PPP (Million Intl$ (2011)),measure
-total_ghg_emissions_excluding_land_use_change_and_forestry_mtco2e,Total GHG Emissions Excluding Land-Use Change and Forestry (MtCO2e),measure
-total_f_gas_mtco2e,Total F-Gas (MtCO2e),measure
-total_ghg_emissions_including_land_use_change_and_forestry_mtco_e,Total GHG Emissions Including Land-Use Change and Forestry (MtCO?e?),measure
-total_co2_emissions_excluding_land_use_change_and_forestry_mtco2,Total CO2 Emissions Excluding Land-Use Change and Forestry (MtCO2),measure
-country,Country,entity_domain
-total_n2o_mtco2e,Total N2O (MtCO2e),measure
-total_n2o_including_land_use_change_and_forestry_mtco2e,Total N2O (including Land-Use Change and Forestry) (MtCO2e),measure
-energy_mtco2e,Energy (MtCO2e),measure
-agriculture_mtco2e,Agriculture (MtCO2e),measure
-land_use_change_and_forestry_mtco2,Land-Use Change and Forestry (MtCO2),measure
-gdp_usd_million_us_2010,GDP-USD (Million US$ (2010)),measure
-total_co2_including_land_use_change_and_forestry_mtco2,Total CO2 (including Land-Use Change and Forestry) (MtCO2),measure
-industrial_processes_mtco2e,Industrial Processes (MtCO2e),measure
-other_fuel_combustion_mtco2e,Other Fuel Combustion (MtCO2e),measure
-fugitive_emissions_mtco2e,Fugitive Emissions (MtCO2e),measure
-waste_mtco2e,Waste (MtCO2e),measure
 population_people,Population (People),measure
-bunker_fuels_mtco2,Bunker Fuels (MtCO2),measure
-electricity_heat_mtco2,Electricity/Heat (MtCO2),measure
-manufacturing_construction_mtco2,Manufacturing/Construction (MtCO2),measure
-total_co2_excluding_land_use_change_and_forestry_mtco2,Total CO2 (excluding Land-Use Change and Forestry) (MtCO2),measure
-total_ch4_including_land_use_change_and_forestry_mtco2e,Total CH4 (including Land-Use Change and Forestry) (MtCO2e),measure
-total_ch4_mtco2e,Total CH4 (MtCO2e),measure
+land_use_change_and_forestry_mtco2,Land-Use Change and Forestry (MtCO2),measure
+waste_mtco2e,Waste (MtCO2e),measure
+energy_mtco2e,Energy (MtCO2e),measure
+other_fuel_combustion_mtco2e,Other Fuel Combustion (MtCO2e),measure
+gdp_ppp_million_intl_2011,GDP-PPP (Million Intl$ (2011)),measure
+total_f_gas_mtco2e,Total F-Gas (MtCO2e),measure
 year,Year,time
+total_co2_including_land_use_change_and_forestry_mtco2,Total CO2 (including Land-Use Change and Forestry) (MtCO2),measure
+total_co2_emissions_excluding_land_use_change_and_forestry_mtco2,Total CO2 Emissions Excluding Land-Use Change and Forestry (MtCO2),measure
+electricity_heat_mtco2,Electricity/Heat (MtCO2),measure
+total_ghg_emissions_including_land_use_change_and_forestry_mtco_e,Total GHG Emissions Including Land-Use Change and Forestry (MtCO?e?),measure
+manufacturing_construction_mtco2,Manufacturing/Construction (MtCO2),measure
+total_n2o_including_land_use_change_and_forestry_mtco2e,Total N2O (including Land-Use Change and Forestry) (MtCO2e),measure
+total_ch4_including_land_use_change_and_forestry_mtco2e,Total CH4 (including Land-Use Change and Forestry) (MtCO2e),measure
+industrial_processes_mtco2e,Industrial Processes (MtCO2e),measure
+total_co2_excluding_land_use_change_and_forestry_mtco2,Total CO2 (excluding Land-Use Change and Forestry) (MtCO2),measure
+agriculture_mtco2e,Agriculture (MtCO2e),measure
+country,Country,entity_domain
+total_ghg_emissions_excluding_land_use_change_and_forestry_mtco2e,Total GHG Emissions Excluding Land-Use Change and Forestry (MtCO2e),measure
+total_n2o_mtco2e,Total N2O (MtCO2e),measure
+gdp_usd_million_us_2010,GDP-USD (Million US$ (2010)),measure
 transportation_mtco2,Transportation (MtCO2),measure
+fugitive_emissions_mtco2e,Fugitive Emissions (MtCO2e),measure
+bunker_fuels_mtco2,Bunker Fuels (MtCO2),measure
+total_ch4_mtco2e,Total CH4 (MtCO2e),measure
 name,Name,string

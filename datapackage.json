@@ -5,7 +5,7 @@
         "id": "en"
     },
     "author": "Gapminder",
-    "created": "2018-01-14T01:39:44.600785+00:00",
+    "created": "2018-01-15T02:23:06.569052+00:00",
     "description": "CAIT Historic allows for easy access, analysis and visualization of the latest available international greenhouse gas emissions data. It includes information for 186 countries, 50 U.S. states, 6 gases, multiple economic sectors, and 160 years - carbon dioxide emissions for 1850-2013 and multi-sector greenhouse gas emission for 1990-2013.",
     "license": "MIT",
     "title": "CAIT - Historical Emissions Data (Countries, U.S. States, UNFCCC)",
@@ -556,7 +556,7 @@
                 "primaryKey": [
                     "concept"
                 ],
-                "value": "concept_type",
+                "value": "name",
                 "resources": [
                     "ddf--concepts"
                 ]
@@ -565,7 +565,7 @@
                 "primaryKey": [
                     "concept"
                 ],
-                "value": "name",
+                "value": "concept_type",
                 "resources": [
                     "ddf--concepts"
                 ]
