@@ -32,28 +32,28 @@ def update_source():
     year = dt.year
     day = dt.day
     if day > 2:
-	month = dt.month
+        month = dt.month
     else:
-	month = dt.month - 1
+        month = dt.month - 1
     have_source = False
 
     while not have_source:
-	dt_str = datetime(year, month, 2).strftime('%m%d%Y')
-	if month > 1:
-	    month = month - 1
-	else:
-	    month = 12
-	    year = year - 1
-	link = source_url_tmpl.format(dt_str)
-	res = requests.get(link)
-	if res.status_code == 200:
-	    logging.info("get source for " + dt_str)
-	    have_source = True
-	    zipf = zipfile.ZipFile(BytesIO(res.content))
-	    for f in zipf.namelist():
-		# newpath = osp.join(source_dir, osp.basename(f))
-		zipf.extract(f, path=source_dir)
-	    return dt_str
+        dt_str = datetime(year, month, 2).strftime('%m%d%Y')
+        if month > 1:
+            month = month - 1
+        else:
+            month = 12
+            year = year - 1
+        link = source_url_tmpl.format(dt_str)
+        res = requests.get(link)
+        if res.status_code == 200:
+            logging.info("get source for " + dt_str)
+            have_source = True
+            zipf = zipfile.ZipFile(BytesIO(res.content))
+            for f in zipf.namelist():
+                # newpath = osp.join(source_dir, osp.basename(f))
+                zipf.extract(f, path=source_dir)
+            return dt_str
 
 
 def main():
@@ -82,6 +82,8 @@ def main():
     cdf.ix['country', 'concept_type'] = 'entity_domain'
     cdf.ix['year', 'concept_type'] = 'time'
     cdf.ix['name'] = ['Name', 'string']
+
+    cdf = cdf.sort_index()
 
     cdf.to_csv(osp.join(out_dir, 'ddf--concepts.csv'))
 
