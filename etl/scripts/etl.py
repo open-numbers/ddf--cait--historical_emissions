@@ -14,46 +14,6 @@ logging.basicConfig(level=logging.INFO)
 # global vars
 source_dir = '../source'
 out_dir = '../../'
-source_url_tmpl = 'https://www.wri.org/sites/default/files/CAIT_Country_GHG_Emissions_-_csv_{}.zip'
-# source_url = 'https://www.wri.org/sites/default/files/CAIT_Country_GHG_Emissions_-_csv_10022017.zip'
-
-
-def update_source():
-    """The source file seems to release on Feb and Oct 2nd.
-    But here we will check for every month.
-    """
-    import zipfile
-    import requests
-    from datetime import datetime
-    from io import BytesIO
-    # extract all files to source/
-    # don't keep source file in github
-    dt = datetime.now()
-    year = dt.year
-    day = dt.day
-    if day > 2:
-        month = dt.month
-    else:
-        month = dt.month - 1
-    have_source = False
-
-    while not have_source:
-        dt_str = datetime(year, month, 2).strftime('%m%d%Y')
-        if month > 1:
-            month = month - 1
-        else:
-            month = 12
-            year = year - 1
-        link = source_url_tmpl.format(dt_str)
-        res = requests.get(link)
-        if res.status_code == 200:
-            logging.info("get source for " + dt_str)
-            have_source = True
-            zipf = zipfile.ZipFile(BytesIO(res.content))
-            for f in zipf.namelist():
-                # newpath = osp.join(source_dir, osp.basename(f))
-                zipf.extract(f, path=source_dir)
-            return dt_str
 
 
 def main():
@@ -147,7 +107,4 @@ def main():
 
 if __name__ == '__main__':
     logging.info('updating source file...')
-    dt_str = update_source()
-    source_dir = osp.join(source_dir,
-			  "CAIT Country GHG Emissions - csv " + dt_str)
     main()
