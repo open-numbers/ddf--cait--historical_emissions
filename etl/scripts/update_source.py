@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
+import logging
 import zipfile
 import tempfile
 import shutil
@@ -12,6 +12,7 @@ from pathlib import Path
 
 source_url_tmpl = 'https://www.wri.org/sites/default/files/CAIT_Country_GHG_Emissions_-_csv_{}.zip'
 # source_url = 'https://www.wri.org/sites/default/files/CAIT_Country_GHG_Emissions_-_csv_10022017.zip'
+source_dir = '../source/'
 
 
 def update_source():
