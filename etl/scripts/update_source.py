@@ -10,8 +10,7 @@ from io import BytesIO
 from pathlib import Path
 
 
-source_url_tmpl = 'https://www.wri.org/sites/default/files/CAIT_Country_GHG_Emissions_-_csv_{}.zip'
-# source_url = 'https://www.wri.org/sites/default/files/CAIT_Country_GHG_Emissions_-_csv_10022017.zip'
+source_url_tmpl = 'https://wriorg.s3.amazonaws.com/s3fs-public/CAIT_Country_GHG_Emissions_-_csv_{}.zip'
 source_dir = '../source/'
 
 
@@ -37,6 +36,8 @@ def update_source():
         else:
             month = 12
             year = year - 1
+        if year < 2017:
+            raise ValueError('source update failed. Please check if the source url template still works.')
         link = source_url_tmpl.format(dt_str)
         res = requests.get(link)
         if res.status_code == 200:
