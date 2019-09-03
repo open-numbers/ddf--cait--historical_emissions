@@ -6,7 +6,8 @@ import numpy as np
 import pandas as pd
 from ddf_utils.str import to_concept_id
 from ddf_utils.str import format_float_digits
-from ddf_utils.datapackage import get_datapackage, dump_json
+from ddf_utils.package import get_datapackage
+from ddf_utils.io import dump_json
 import logging
 
 logging.basicConfig(level=logging.INFO)
