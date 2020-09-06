@@ -52,7 +52,7 @@ albania,2014,2.82981
 algeria,1990,7.33248
 algeria,1991,7.10654
 algeria,1992,7.41633
-algeria,1993,7.52476
+algeria,1993,7.52475
 algeria,1994,7.16277
 algeria,1995,7.07109
 algeria,1996,7.16025
@@ -142,7 +142,7 @@ antigua_barbuda,2004,0.03974
 antigua_barbuda,2005,0.03951
 antigua_barbuda,2006,0.03962
 antigua_barbuda,2007,0.04063
-antigua_barbuda,2008,0.0404
+antigua_barbuda,2008,0.04041
 antigua_barbuda,2009,0.04021
 antigua_barbuda,2010,0.02211
 antigua_barbuda,2011,0.02215
@@ -169,7 +169,7 @@ argentina,2006,119.70313
 argentina,2007,122.22613
 argentina,2008,119.1232
 argentina,2009,110.65301
-argentina,2010,105.11878
+argentina,2010,105.11877
 argentina,2011,104.68232
 argentina,2012,105.82541
 argentina,2013,109.55761
@@ -190,7 +190,7 @@ armenia,2002,1.08687
 armenia,2003,1.08861
 armenia,2004,1.16863
 armenia,2005,1.14702
-armenia,2006,1.18852
+armenia,2006,1.18853
 armenia,2007,1.21162
 armenia,2008,1.21339
 armenia,2009,1.15894
@@ -708,7 +708,7 @@ cambodia,1995,14.54389
 cambodia,1996,14.42646
 cambodia,1997,14.4563
 cambodia,1998,14.25705
-cambodia,1999,15.33958
+cambodia,1999,15.33959
 cambodia,2000,14.27494
 cambodia,2001,14.5063
 cambodia,2002,14.90443
@@ -1167,7 +1167,7 @@ czech_republic,2004,5.94258
 czech_republic,2005,5.80641
 czech_republic,2006,5.763
 czech_republic,2007,5.93906
-czech_republic,2008,5.7722
+czech_republic,2008,5.77221
 czech_republic,2009,5.63463
 czech_republic,2010,5.58053
 czech_republic,2011,5.70821
@@ -1273,7 +1273,7 @@ dominican_republic,2010,7.85256
 dominican_republic,2011,7.80222
 dominican_republic,2012,7.69186
 dominican_republic,2013,7.73398
-dominican_republic,2014,7.78302
+dominican_republic,2014,7.78303
 ecuador,1990,10.77731
 ecuador,1991,11.22593
 ecuador,1992,11.6772
@@ -1343,7 +1343,7 @@ el_salvador,2005,2.97121
 el_salvador,2006,2.99521
 el_salvador,2007,3.17441
 el_salvador,2008,3.29449
-el_salvador,2009,3.11314
+el_salvador,2009,3.11315
 el_salvador,2010,2.99497
 el_salvador,2011,2.69422
 el_salvador,2012,2.8258
@@ -1663,7 +1663,7 @@ ghana,2000,8.15355
 ghana,2001,8.47194
 ghana,2002,7.74687
 ghana,2003,8.56614
-ghana,2004,6.95992
+ghana,2004,6.95993
 ghana,2005,9.49433
 ghana,2006,9.00428
 ghana,2007,8.03785
@@ -1703,7 +1703,7 @@ grenada,1990,0.01398
 grenada,1991,0.01387
 grenada,1992,0.01391
 grenada,1993,0.01393
-grenada,1994,0.01414
+grenada,1994,0.01413
 grenada,1995,0.01428
 grenada,1996,0.01407
 grenada,1997,0.01393
@@ -1784,7 +1784,7 @@ guinea_bissau,1996,1.1242
 guinea_bissau,1997,1.08961
 guinea_bissau,1998,1.08356
 guinea_bissau,1999,1.18559
-guinea_bissau,2000,1.19354
+guinea_bissau,2000,1.19355
 guinea_bissau,2001,1.28776
 guinea_bissau,2002,1.29606
 guinea_bissau,2003,1.33306
@@ -1796,7 +1796,7 @@ guinea_bissau,2008,1.32975
 guinea_bissau,2009,1.36696
 guinea_bissau,2010,1.51475
 guinea_bissau,2011,1.52876
-guinea_bissau,2012,1.67936
+guinea_bissau,2012,1.67937
 guinea_bissau,2013,1.6172
 guinea_bissau,2014,1.6513
 guyana,1990,1.16376
@@ -1930,7 +1930,7 @@ india,1992,515.64978
 india,1993,521.92394
 india,1994,529.70849
 india,1995,533.95856
-india,1996,541.20746
+india,1996,541.20745
 india,1997,546.61869
 india,1998,553.36935
 india,1999,556.84424
@@ -1955,7 +1955,7 @@ indonesia,1992,132.37151
 indonesia,1993,130.03358
 indonesia,1994,131.18416
 indonesia,1995,136.56861
-indonesia,1996,139.83574
+indonesia,1996,139.83573
 indonesia,1997,135.34606
 indonesia,1998,137.85379
 indonesia,1999,135.93162
@@ -2319,7 +2319,7 @@ kuwait,2006,0.52363
 kuwait,2007,0.36284
 kuwait,2008,0.45706
 kuwait,2009,0.37434
-kuwait,2010,0.38142
+kuwait,2010,0.38143
 kuwait,2011,0.37838
 kuwait,2012,0.41382
 kuwait,2013,0.38998
@@ -2646,7 +2646,7 @@ malawi,2008,3.68051
 malawi,2009,3.68847
 malawi,2010,4.26155
 malawi,2011,4.3619
-malawi,2012,4.86778
+malawi,2012,4.86777
 malawi,2013,5.21763
 malawi,2014,5.23947
 malaysia,1990,11.25088
@@ -2654,7 +2654,7 @@ malaysia,1991,11.39398
 malaysia,1992,11.69946
 malaysia,1993,11.82806
 malaysia,1994,11.87597
-malaysia,1995,11.82476
+malaysia,1995,11.82475
 malaysia,1996,11.62887
 malaysia,1997,12.22394
 malaysia,1998,12.685
@@ -2815,13 +2815,13 @@ mauritius,2003,0.14984
 mauritius,2004,0.1455
 mauritius,2005,0.1397
 mauritius,2006,0.13318
-mauritius,2007,0.14332
+mauritius,2007,0.14333
 mauritius,2008,0.13662
 mauritius,2009,0.135
 mauritius,2010,0.12876
 mauritius,2011,0.14653
 mauritius,2012,0.15647
-mauritius,2013,0.1361
+mauritius,2013,0.13609
 mauritius,2014,0.14826
 mexico,1990,81.17999
 mexico,1991,78.98464
@@ -3588,7 +3588,7 @@ russian_federation,2003,105.67449
 russian_federation,2004,95.81852
 russian_federation,2005,92.4376
 russian_federation,2006,89.91073
-russian_federation,2007,91.76916
+russian_federation,2007,91.76917
 russian_federation,2008,96.77293
 russian_federation,2009,94.15966
 russian_federation,2010,91.82328
@@ -3629,7 +3629,7 @@ saint_kitts_nevis,1994,0.01659
 saint_kitts_nevis,1995,0.0161
 saint_kitts_nevis,1996,0.01681
 saint_kitts_nevis,1997,0.01802
-saint_kitts_nevis,1998,0.0185
+saint_kitts_nevis,1998,0.01851
 saint_kitts_nevis,1999,0.01909
 saint_kitts_nevis,2000,0.0202
 saint_kitts_nevis,2001,0.02007
@@ -3855,7 +3855,7 @@ sierra_leone,1995,1.48027
 sierra_leone,1996,1.41855
 sierra_leone,1997,1.40608
 sierra_leone,1998,1.32946
-sierra_leone,1999,1.18946
+sierra_leone,1999,1.18945
 sierra_leone,2000,1.116
 sierra_leone,2001,1.20981
 sierra_leone,2002,1.44425
@@ -4005,7 +4005,7 @@ south_africa,1995,28.93145
 south_africa,1996,30.02417
 south_africa,1997,30.41091
 south_africa,1998,31.03471
-south_africa,1999,30.77586
+south_africa,1999,30.77585
 south_africa,2000,30.80984
 south_africa,2001,30.61435
 south_africa,2002,31.51807
@@ -4090,7 +4090,7 @@ sudan,2005,109.93433
 sudan,2006,102.99039
 sudan,2007,110.25533
 sudan,2008,108.58614
-sudan,2009,110.3234
+sudan,2009,110.32341
 sudan,2010,103.89468
 sudan,2011,104.70143
 sudan,2012,70.75964
@@ -4752,7 +4752,7 @@ yemen,1992,4.24427
 yemen,1993,4.31176
 yemen,1994,4.28012
 yemen,1995,4.34701
-yemen,1996,4.48866
+yemen,1996,4.48867
 yemen,1997,4.75471
 yemen,1998,4.97329
 yemen,1999,5.06193
