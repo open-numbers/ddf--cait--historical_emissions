@@ -21,28 +21,27 @@ def main():
     logging.info('loading source files...')
     co2 = pd.read_csv(
         osp.join(source_dir, 'CAIT Country CO2 Emissions.csv'),
-        header=None,
-        encoding='latin1')
+        skiprows=1).set_index(['Country', 'Year'])
     ghg = pd.read_csv(
         osp.join(source_dir, 'CAIT Country GHG Emissions.csv'),
-        header=None,
-        encoding='latin1')
+        skiprows=2).set_index(['Country', 'Year'])
     soc = pd.read_csv(
         osp.join(source_dir, 'CAIT Country Socio-Economic Data.csv'),
-        header=None,
-        encoding='latin1')
+        skiprows=1).set_index(['Country', 'Year'])
 
     # concepts
     logging.info('building concepts files...')
-    all_concepts = np.r_[co2.iloc[1], ghg.iloc[2], soc.iloc[1]]
+
+    all_concepts = np.r_[co2.columns,  ghg.columns, soc.columns,
+                         ['Country', 'Year']]
     cdf = pd.DataFrame(list(set(all_concepts)), columns=['name'])
 
     cdf['concept'] = cdf['name'].map(to_concept_id)
     cdf['concept_type'] = 'measure'
     cdf = cdf.set_index('concept')
-    cdf.ix['country', 'concept_type'] = 'entity_domain'
-    cdf.ix['year', 'concept_type'] = 'time'
-    cdf.ix['name'] = ['Name', 'string']
+    cdf.loc['country', 'concept_type'] = 'entity_domain'
+    cdf.loc['year', 'concept_type'] = 'time'
+    cdf.loc['name'] = ['Name', 'string']
 
     cdf = cdf.sort_index()
 
@@ -50,14 +49,14 @@ def main():
 
     # country entities
     logging.info('building entity files...')
-    co2.columns = co2.ix[1].map(to_concept_id)
-    co2 = co2.ix[2:]
+    co2 = co2.reset_index()
+    co2.columns = co2.columns.map(to_concept_id)
 
-    ghg.columns = ghg.ix[2].map(to_concept_id)
-    ghg = ghg.ix[3:]
+    ghg = ghg.reset_index()
+    ghg.columns = ghg.columns.map(to_concept_id)
 
-    soc.columns = soc.ix[1].map(to_concept_id)
-    soc = soc.ix[2:]
+    soc = soc.reset_index()
+    soc.columns = soc.columns.map(to_concept_id)
 
     all_countries = np.r_[co2.country, ghg.country, soc.country]
     country = pd.DataFrame(all_countries, columns=['name'])
